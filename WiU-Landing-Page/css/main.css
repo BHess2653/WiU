@@ -1,8 +1,8 @@
 
 /*-------------------------------------------  general -------------------------------------------------------*/
 body{
-	background-image: url(../img/sand.jpg);
-	background-repeat: repeat;
+	background-image: url(../img/wood.jpg);
+	background-repeat: no-repeat;
 	font-size: 62.5%;
 	font-family: helvetica, arial, sans-serif;
 	color:#FFFFFF; /*changes color of the whole text*/
