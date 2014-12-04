@@ -22,7 +22,7 @@ body{
 /*-------------------------------------------  header -------------------------------------------------------*/
 
 header{
-	border-bottom: 1px solid #bbb8bf; /*changes color of border under project name*/
+	border-bottom: 1px solid #FFFFFF; /*changes color of border under project name*/
 }
 h1{
 	margin-top: 0;
@@ -33,7 +33,7 @@ h2{
 }
 /*-------------------------------------------  table -------------------------------------------------------*/
 table{
-	background: #f7f7f9;  /*changes color of the background of the table*/
+	background: #FFFFFF;  /*changes color of the background of the table*/
 	border-collapse: collapse;
 	width: 100%;
 }
@@ -42,31 +42,31 @@ tr{
 	border-color: inherit;
 }
 .odd{
-	background: #ececec; /*changes color of the stripes table*/
+	background: #b8b8b8; /*changes color of the stripes table*/
 }
 th{
 	text-align: left;
 	padding: 1em 1em .5em;
 	font-weight: bold;
 	font-size: 120%;
-	color: #545257;  /*changes color of table hd text*/
-	background: #bbbcc0; /*changes color of table hd background*/
+	color: #000000;  /*changes color of table hd text*/
+	background: #F0F0F0; /*changes color of table hd background*/
 }
 th:first-child{
-	/*border-right: 1px solid #6a7680;*/
+	border-right: 1px solid #6a7680;
 }
 td{
 	padding: 1em 1em;
 	width: 69%;
 }
 td:first-child{
-	/*border-right: 1px solid #6a7680;*/
+	border-right: 1px solid #6a7680;
 }
 /*-------------------------------------------  top section-------------------------------------------------------*/
 .main{
 
 	overflow: auto;
-	/*border-bottom: 1px solid #bbb8bf;*/
+	border-bottom: 1px solid #bbb8bf;
 }
 .main p{
 	width: 67.5%;
@@ -93,7 +93,7 @@ figure img{
 a{
 	text-decoration: none;
 	font-size: 1.3em;
-	color: #475a80;  /*changes color of the links*/
+	color: #000000;  /*changes color of the links*/
 }
 a:hover{
 	text-decoration: underline;
